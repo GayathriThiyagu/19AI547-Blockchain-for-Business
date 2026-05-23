@@ -1,4 +1,8 @@
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
+
+## Name: Gayathri T
+## Reg. No: 212223100007
+
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
 
@@ -96,12 +100,15 @@ contract PasswordlessAuthDemo {
 # Expected Output:
 Users can register without a password.
 
+<img width="1864" height="816" alt="Screenshot 2026-05-23 204557" src="https://github.com/user-attachments/assets/d56db275-b418-4b85-ba95-5ce132e3448c" />
 
 Users sign a challenge with their private key for authentication.
 
+<img width="1913" height="820" alt="Screenshot 2026-05-23 204623" src="https://github.com/user-attachments/assets/63fb4151-e0d7-4578-ac40-643c453cdfe8" />
 
 The smart contract verifies signatures to confirm identity.
 
+<img width="1904" height="841" alt="Screenshot 2026-05-23 204741" src="https://github.com/user-attachments/assets/9c614e53-1583-4654-b716-2030ba72f436" />
 
 
 # High-Level Overview:
@@ -114,3 +121,4 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+ Thus, secure passwordless authentication system using public-private key cryptography on Ethereum has been successfully executed.
